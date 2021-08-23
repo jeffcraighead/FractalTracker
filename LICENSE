@@ -1,3 +1,38 @@
+                    	   RTFPA License
+                    	   23 August 2021
+                    	   
+In addition to the below GNU AFFERO GPL v3 license conditions, any source code or binary 
+derived from (copied, modified, ported to another language, etc.) this project must
+include these RTFPA licensing terms in your license file and in the README:
+
+# Reference
+RTFPA works using a modification of the divider method proposed by Mandelbrot in his 1967 
+paper "How Long is the Coast of Britain?". The modifications to this method identified by 
+Craighead are detailed in the 2011 article "Using fractal dimension to assess robot 
+operator skill in a search task". If you use, modify, derive from, or port to another 
+language, the code in this project for academic purposes, cite this article. Additionally,
+include this request for citation in the derived work.
+
+## The citation in APA format is:
+
+Craighead, J. D. (2011). Using fractal dimension to assess robot operator skill in a 
+search task. Journal of Intelligent & Robotic Systems, 64(1), 97-118.
+
+## The Bibtex is:
+
+@article{craighead2011using,
+  title={Using fractal dimension to assess robot operator skill in a search task},
+  author={Craighead, Jeffrey D},
+  journal={Journal of Intelligent \& Robotic Systems},
+  volume={64},
+  number={1},
+  pages={97--118},
+  year={2011},
+  publisher={Springer}
+}
+                    	  
+
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
